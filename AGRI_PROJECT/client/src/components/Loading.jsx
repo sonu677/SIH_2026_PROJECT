@@ -7,7 +7,7 @@ const Loading = ({ text = "Loading..." }) => {
                    border-t-green-600 rounded-full animate-spin"
       ></div>
 
-      <p className="mt-4 text-gray-600">
+      <p className="mt-4 text-gray-500">
         {text}
       </p>
 
