@@ -1,4 +1,4 @@
-# 🌾 AgriShield AI
+# 🌾 KRISHI-MITRA AI
 ### Smart Agriculture Disease Detection & Crop Advisory System
 
 > An AI-powered agriculture platform developed for **Smart India Hackathon (SIH)** to help farmers detect crop diseases early, receive preventive recommendations, and improve agricultural productivity.
